@@ -1,0 +1,2 @@
+# Here's an example of a simple Python program named "kidon" for educational purposes that can be used in a safe environment for brute force exploitation
+# This program takes a target string as input and performs a brute force attack to find a matching string using all possible combinations of characters (letters and digits). It then prints the number of attempts made until the target string is found or indicates that the target string was not found.
